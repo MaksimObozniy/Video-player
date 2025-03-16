@@ -13,6 +13,7 @@
 
 .fa-play {
   color: white;
+  font-size: large;
 }
 
 .js-pause-button {
@@ -23,6 +24,7 @@
 
 .fa-pause {
   color: white;
+  font-size: large;
 }
 
 .js-volume-button {
@@ -33,6 +35,7 @@
 
 .fa-volume-up {
   color: white;
+  font-size: large;
 }
 
 .js-mute-button {
@@ -43,6 +46,7 @@
 
 .fa-volume-off {
   color: white;
+  font-size: large;
 }
 
 .play-button-container-background {
