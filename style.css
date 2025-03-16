@@ -12,4 +12,4 @@ button{
     color: white;
 }
 
-button#play{border-style: none; }
+button#play{border-style: none; background-color: transparent; }
