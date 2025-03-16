@@ -8,8 +8,12 @@ button{
     background-color: black
 }
 
-.triangle{
+.play_button{
+    color: white;
+}
+.stop_button{
     color: white;
 }
 
 button#play{border-style: none; background-color: transparent; }
+button#stop{border-style: none; background-color: transparent; }
