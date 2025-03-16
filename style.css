@@ -6,45 +6,61 @@
 }
 
 .js-play-button {
+  height: 40px;
+  width: 40px;
   cursor: pointer;
   border-style: none;
   background-color: transparent;
 }
 
 .fa-play {
+  width: 10px;
   color: white;
   font-size: large;
 }
 
 .js-pause-button {
+  height: 40px;
+  width: 40px;
   cursor: pointer;
   border-style: none;
   background-color: transparent;
 }
 
 .fa-pause {
+  width: 10px;
   color: white;
   font-size: large;
 }
 
 .js-volume-button {
+  height: 40px;
+  width: 40px;
+  margin-left: 5px;
   cursor: pointer;
   border-style: none;
   background-color: transparent;
 }
 
 .fa-volume-up {
+  width: 5px;
   color: white;
   font-size: large;
 }
 
 .js-mute-button {
+  height: 40px;
+  width: 40px;
+  margin-left: 5px;
   cursor: pointer;
   border-style: none;
   background-color: transparent;
 }
 
 .fa-volume-off {
+  width: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   color: white;
   font-size: large;
 }
