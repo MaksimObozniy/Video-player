@@ -4,4 +4,12 @@ button{
     cursor: pointer;
 }
 
-button#play{border-style: none;}
+.play_button_container_background{
+    background-color: black
+}
+
+.triangle{
+    color: white;
+}
+
+button#play{border-style: none; }
