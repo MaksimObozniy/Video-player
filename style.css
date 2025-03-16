@@ -1,19 +1,26 @@
-button{
-    width: 30px;
-    height: 30px;
-    cursor: pointer;
+.js-play-button {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  border-style: none;
+  background-color: transparent;
 }
 
-.play_button_container_background{
-    background-color: black
+.js-pause-button {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  border-style: none;
+  background-color: transparent;
+}
+.play-button-container-background {
+  background-color: black;
 }
 
-.play_button{
-    color: white;
+.play-button {
+  color: white;
 }
-.stop_button{
-    color: white;
+.stop-button {
+  color: white;
 }
 
-button#play{border-style: none; background-color: transparent; }
-button#stop {border-style: none; background-color: transparent; }
