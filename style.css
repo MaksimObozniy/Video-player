@@ -1,8 +1,8 @@
-.video-player{
-    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
-    display: flex;
-    flex-grow: 1;
-    flex-direction: column;
+.video-player {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
 }
 
 .js-play-button {
@@ -11,19 +11,40 @@
   background-color: transparent;
 }
 
+.fa-play {
+  color: white;
+}
+
 .js-pause-button {
   cursor: pointer;
   border-style: none;
   background-color: transparent;
 }
+
+.fa-pause {
+  color: white;
+}
+
+.js-volume-button {
+  cursor: pointer;
+  border-style: none;
+  background-color: transparent;
+}
+
+.fa-volume-up {
+  color: white;
+}
+
+.js-mute-button {
+  cursor: pointer;
+  border-style: none;
+  background-color: transparent;
+}
+
+.fa-volume-off {
+  color: white;
+}
+
 .play-button-container-background {
   background-color: black;
 }
-
-.play-button {
-  color: white;
-}
-.stop-button {
-  color: white;
-}
-

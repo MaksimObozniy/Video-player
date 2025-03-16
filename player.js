@@ -61,8 +61,8 @@ function createPlayer({
   })();
 
   (function activateVolumeButtons(){
-    const $volumeButton = $playerContainer.find('.js-volume-button');
-    const $muteButton = $playerContainer.find('.js-mute-button');
+    const $volumeButton = $playerContainer.find('.js-mute-button');
+    const $muteButton = $playerContainer.find('.js-volume-button');
 
     $volumeButton.click(()=>{
       player.setVolume(100);
