@@ -14,7 +14,6 @@
 }
 
 .fa-play {
-  width: 10px;
   color: white;
   font-size: large;
 }
@@ -28,7 +27,6 @@
 }
 
 .fa-pause {
-  width: 10px;
   color: white;
   font-size: large;
 }
@@ -43,7 +41,6 @@
 }
 
 .fa-volume-up {
-  width: 5px;
   color: white;
   font-size: large;
 }
@@ -58,9 +55,20 @@
 }
 
 .fa-volume-off {
-  width: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
+  color: white;
+  font-size: large;
+}
+
+.js-fullscreen-button {
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  border-style: none;
+  background-color: transparent;
+  float:right;
+}
+
+.fa-expand {
   color: white;
   font-size: large;
 }
